@@ -1,0 +1,10 @@
+
+node_modules/
+*.log
+
+# local environment configuration
+.env
+
+# ruby library files
+vendor
+.bundle
