@@ -1,0 +1,6 @@
+# local environment configuration
+.env
+
+# ruby library files
+vendor
+.bundle
